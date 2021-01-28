@@ -11,8 +11,4 @@ public class Consumer {
     public void consume() {
         svr.doIt();
     }
-
-    // public void setSvr(Service svr) {
-    //     this.svr = svr;
-    // }
 }
